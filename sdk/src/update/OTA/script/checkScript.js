@@ -1,0 +1,1 @@
+export const checkScript = `00A4040006A1A2A3A4A5A6`;
