@@ -1,0 +1,22 @@
+{
+  "name": "cwsble",
+  "version": "0.0.8",
+  "description": "",
+  "main": "bleCard/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ble"
+  ],
+  "peerDependencies": {
+    "react": "16.5.0",
+    "react-native": "~0.57.2",
+    "react-native-ble-manager": "^6.5.1"
+  },
+  "author": "coolbitx",
+  "license": "ISC"
+}
